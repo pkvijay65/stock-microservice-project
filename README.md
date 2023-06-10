@@ -25,3 +25,8 @@ With the help of this project, I learned:
 * Implementation of microservices using Spring Boot.
 * Utilizing the Eureka server for service registration and discovery.
 * Sending Custom Exception messages to the client.
+
+## Future Enhancements:
+* Implementing a basic front-end for the project.
+* Define more use case specific endpoints.
+* Define more entities and make it more useful for real world applications.
